@@ -6,3 +6,5 @@ while (n < 5) {
   n++;
   x += n;
 }
+
+console.log(n)
